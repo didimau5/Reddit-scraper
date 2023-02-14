@@ -12,7 +12,8 @@ A piece of code that traverses a .csv document with all registered cars in the U
 - Collect and prepare a new set of data for later sentiment analysis. 
 
 
-** A slice of data could look like the following: **
+## Data slice example
+
 
 ![image](https://user-images.githubusercontent.com/76784262/218809780-c51fa6a6-8514-4715-a258-695db8f9ee2d.png)
 
