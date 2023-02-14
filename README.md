@@ -3,7 +3,7 @@
 
 ## What is this?
 
-A piece of code that traverses a .csv document with all registered cars in the UK and then uses each of the car names to perform a search on Reddit and collate results for later Sentiment Analysis
+A tool that traverses a .csv document with all registered cars in the UK and then uses each of the car names to perform a search on Reddit. This was a supporting piece of code for my thesis project where the information obtained through this code will be and collated for later Sentiment Analysis and inclusion in a machine learning model. 
 
 ## Things this tool Can Do:
 
